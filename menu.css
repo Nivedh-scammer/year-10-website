@@ -1,0 +1,63 @@
+body{
+    background-color:peachpuff; 
+    color: grey;
+}
+.drinks{
+   color:grey;
+   font-family:monospace;
+   font-size:20px;
+   width: 200px;
+   height: auto;
+   display: block;
+  
+}
+
+.coffee{
+    color:grey;
+    font-family:monospace;
+    font-size:20px;
+    width: 200px;
+    height: auto;
+    display: block;
+    
+ }
+
+.cap{
+    margin-left: -40px;
+}
+
+.milk{
+    margin-left:-59px;
+}
+
+ .food{
+    color:grey;
+    font-family:monospace;
+    font-size:20px;
+    width: 200px;
+    height: auto;
+    display: block;
+    
+ }
+ 
+
+ p{
+    color:grey;
+    font-family:monospace;
+    font-size:20px;
+
+
+ }
+
+ .end{
+ text-align: center;
+ color:grey;
+font-family:monoscape;
+
+
+margin-left: 250px;
+ }
+
+ .title{
+    text-align: center;
+}
