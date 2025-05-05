@@ -9,7 +9,11 @@ body{
    width: 200px;
    height: auto;
    display: block;
-  
+  display: flex;
+  min-height: 700px;
+  min-width: 1320px;
+  flex-direction: column;
+align-items: center;
 }
 
 .coffee{
@@ -19,7 +23,11 @@ body{
     width: 200px;
     height: auto;
     display: block;
-    
+    display: flex;
+    min-height: 700px;
+    min-width: 1320px;
+    flex-direction: column;
+  align-items: center;
  }
 
 .cap{
@@ -28,6 +36,7 @@ body{
 
 .milk{
     margin-left:-59px;
+   
 }
 
  .food{
@@ -37,7 +46,11 @@ body{
     width: 200px;
     height: auto;
     display: block;
-    
+    display: flex;
+    min-height: 700px;
+    min-width: 1320px;
+    flex-direction: column;
+  align-items: center;
  }
  
 
